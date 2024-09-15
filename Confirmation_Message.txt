@@ -1,0 +1,11 @@
+Congratulations! Your data passed the quality check.
+Please attach this confirmation message to your submission.
+
+Below is a summary of your submission:
+- Number of datasets: 1
+- Number of readme files: 1
+- Number of spreadsheet files: 1
+- Total number of subjects: 79
+- Dataset names: Tsay_2019_Expt1
+
+Please confirm that the information above is correct. If anything seems wrong, please make corrections before submitting.
